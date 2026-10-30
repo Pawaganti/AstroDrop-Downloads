@@ -1,18 +1,21 @@
 # AstroDrop · Windows 2.0.18 / Android 2.0.22
 
-用于Windows和Android之间的局域网文件、文件夹与纯文本互传。
+## 更新内容
 
-本版音频卡片更紧凑，使用蓝色音符并显示MP3/FLAC等实际格式。
+- 音频消息卡片更紧凑，采用蓝色音符图标。
+- 音频信息行显示 MP3、FLAC 等实际格式。
+- Windows 提供安装版和便携版两种使用方式。
 
-- **Windows**：下载Portable.zip，解压后双击AstroDrop.exe，无需开发环境或.NET。
-- **Android**：安装APK，Android8.0及以上；更新时覆盖安装，不先卸载。
-- **校验**：SHA256SUMS.txt只包含上述两个公开运行包。
+## 下载选择
 
-网络需允许设备互访；本版无云中转。macOS不在本次发布范围。应用源码和内部开发文档未公开。
+- **Windows 安装版**：`AstroDrop-Windows-2.0.18-Setup.exe`，推荐日常使用，提供快捷方式、系统应用登记和卸载入口。
+- **Windows 便携版**：`AstroDrop-Windows-2.0.18-Portable.zip`，解压后运行 `AstroDrop.exe`。
+- **安卓**：`AstroDrop-Android-2.0.22.apk`，支持 Android 8.0 及以上。
 
-## 新增Windows安装版
+Windows 支持 Windows 10/11 x64，无需额外安装 .NET。安装版与便携版使用相同程序，覆盖安装保留个人配置、配对和记录。安卓更新请选择覆盖安装。
 
-- `AstroDrop-Windows-2.0.18-Setup.exe`：安装向导，创建快捷方式，登记已安装应用，支持卸载。
-- `AstroDrop-Windows-2.0.18-Portable.zip`：原完整便携版继续保留。
-- 两种方式使用相同程序；覆盖安装/卸载保留个人配置、设备配对和记录。
-- 新安装包校验见 `SHA256SUMS-Setup.txt`。原有附件和校验文件不替换。
+## 文件校验
+
+`SHA256SUMS.txt` 对应便携版和安卓 APK；`SHA256SUMS-Setup.txt` 对应 Windows 安装版。
+
+[完整使用说明](https://github.com/Pawaganti/AstroDrop-Downloads/blob/main/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
