@@ -4,15 +4,15 @@
 
 ## 下载
 
-**Windows 2.0.18 · Android 2.0.22**
+**Windows 2.0.20 · Android 2.0.23**
 
 | 平台 | 下载 | 使用方式 |
 | --- | --- | --- |
-| Windows 10/11 x64 | [安装版 EXE（推荐）](https://github.com/Pawaganti/AstroDrop-Downloads/releases/download/v2.0.18/AstroDrop-Windows-2.0.18-Setup.exe) | 运行安装向导，支持开始菜单、桌面快捷方式和系统卸载入口 |
-| Windows 10/11 x64 | [便携版 ZIP](https://github.com/Pawaganti/AstroDrop-Downloads/releases/download/v2.0.18/AstroDrop-Windows-2.0.18-Portable.zip) | 解压后双击 AstroDrop.exe |
-| Android 8.0 及以上 | [安卓 APK](https://github.com/Pawaganti/AstroDrop-Downloads/releases/download/v2.0.18/AstroDrop-Android-2.0.22.apk) | 安装到手机或平板；更新时覆盖安装 |
+| Windows 10/11 x64 | [安装版 EXE（推荐）](https://github.com/Pawaganti/AstroDrop-Downloads/releases/download/v2.0.20/AstroDrop-Windows-2.0.20-Setup.exe) | 运行安装向导，支持开始菜单、桌面快捷方式和系统卸载入口 |
+| Windows 10/11 x64 | [便携版 ZIP](https://github.com/Pawaganti/AstroDrop-Downloads/releases/download/v2.0.20/AstroDrop-Windows-2.0.20-Portable.zip) | 解压后双击 AstroDrop.exe |
+| Android 8.0 及以上 | [安卓 APK](https://github.com/Pawaganti/AstroDrop-Downloads/releases/download/v2.0.20/AstroDrop-Android-2.0.23.apk) | 安装到手机或平板；更新时覆盖安装 |
 
-[最新版本](https://github.com/Pawaganti/AstroDrop-Downloads/releases/latest) · [版本说明与校验文件](https://github.com/Pawaganti/AstroDrop-Downloads/releases/tag/v2.0.18) · [使用说明](使用说明.md)
+[最新版本](https://github.com/Pawaganti/AstroDrop-Downloads/releases/latest) · [版本说明与校验文件](https://github.com/Pawaganti/AstroDrop-Downloads/releases/tag/v2.0.20) · [使用说明](使用说明.md)
 
 ## 功能
 
