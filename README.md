@@ -6,6 +6,7 @@ AstroDrop 是 Windows 和 Android 之间的局域网文件、文件夹与文字�
 
 当前版本：**Windows 2.0.18 x64 / Android 2.0.22**。
 
+- **[下载 Windows 安装版（推荐）](https://github.com/Pawaganti/AstroDrop-Downloads/releases/download/v2.0.18/AstroDrop-Windows-2.0.18-Setup.exe)**：运行中文安装向导，登记开始菜单与“已安装的应用”，支持覆盖安装和卸载，保留个人配置。
 - **[下载 Windows 便携版](https://github.com/Pawaganti/AstroDrop-Downloads/releases/download/v2.0.18/AstroDrop-Windows-2.0.18-Portable.zip)**：Windows 10/11 x64，解压后双击 `AstroDrop.exe`；无需安装开发环境或 .NET。
 - **[下载安卓 APK](https://github.com/Pawaganti/AstroDrop-Downloads/releases/download/v2.0.18/AstroDrop-Android-2.0.22.apk)**：Android 8.0及以上；更新时覆盖安装，不先卸载。
 - [当前版本说明与校验文件](https://github.com/Pawaganti/AstroDrop-Downloads/releases/tag/v2.0.18)
@@ -24,7 +25,7 @@ AstroDrop 是 Windows 和 Android 之间的局域网文件、文件夹与文字�
 
 ## 开始使用
 
-1. Windows 解压到固定目录，双击 `AstroDrop.exe`；手机安装 APK。
+1. Windows运行安装版EXE完成安装；或选便携版解压后双击 `AstroDrop.exe`。手机安装APK。
 2. 两端接入可互通的局域网，在设备管理中显示/输入六位配对码完成配对。
 3. 选择对方设备，拖入文件或通过手机添加文件后发送。
 
@@ -45,3 +46,5 @@ Android音频卡片：
 ## 关于本仓库
 
 这里仅提供公开下载、使用说明和版本记录，不包含应用源码或内部开发资料。软件保留现有版权，未另行授予开源许可；第三方许可见运行包内的组件许可和[COPYRIGHT.md](COPYRIGHT.md)。
+
+安装版使用相同的2.0.18应用程序，不修改现有便携包。安装版校验见发行附件 `SHA256SUMS-Setup.txt`；原 `SHA256SUMS.txt` 仍对应便携版和安卓包。升级或卸载安装版都保留配置、配对身份、记录和接收文件。
